@@ -309,3 +309,8 @@ font-family:Arial, Helvetica, sans-serif
 textarea{
 	font-size: 24px;
 }
+
+.sample-css{
+	margin-left: 20%;
+	margin-right:15%
+}

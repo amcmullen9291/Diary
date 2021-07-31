@@ -31,7 +31,9 @@ const Index = () => {
           <ul>{entry.date}</ul>
           </ul>))}
           <ul>
-            <li>Hello!</li>
+            {/* //added for sample version */}
+            <li><a href={`/DearDiary/entry/:id`}>Hello!</a></li>
+            {/* //end addition */}
           </ul>
     </div>
     )
