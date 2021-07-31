@@ -1,0 +1,6 @@
+export  const ActionTypes = {
+        SET_ENTRIES: "SET_ENTRIES",
+        SELECTED_ENTRY: "SELECTED_ENTRY",
+        REMOVE_SELECTED_ENTRY: "REMOVE_SELECTED_ENTRY",
+        CREATE_ENTRY: "CREATE_ENTRY"
+}
