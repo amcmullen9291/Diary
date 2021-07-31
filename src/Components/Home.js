@@ -2,7 +2,6 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import Index from './Index';
 import Logo from './Logo';
-// import Logo from '../images/logo.gif';
 
 class Home extends React.Component {
 

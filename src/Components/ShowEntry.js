@@ -53,14 +53,14 @@ return(
         </div>
             <p className="details">{entryDetails}</p>
             {/* //for sample version */}
-            <p className="details">
-              <center><div>Well, Hello</div>
-              <c><p className="sample-css">My name is Jacques cousteau I was born on July 21 1899. My favourite authors are Kipling, O. Henry and Steuart Edward White. My favourite flower is Lady Slipper and Tiger Lily. My favourite sports are Trout fishing, Hiking, shooting, football and boxing. My favourite studies are English, Zoology and Chemistry. I intend to travel and write.</p>
+            {/* <p className="details">
+              <center><div>Well, Hello</div> */}
+              {/* <c><p className="sample-css">My name is Jacques cousteau I was born on July 21 1899. My favourite authors are Kipling, O. Henry and Steuart Edward White. My favourite flower is Lady Slipper and Tiger Lily. My favourite sports are Trout fishing, Hiking, shooting, football and boxing. My favourite studies are English, Zoology and Chemistry. I intend to travel and write.</p>
             <div>Tuesday July 30th 2021, 6:15:42 pm</div></c>
-            <br/>
-            </center>
+            <br/> */}
+            {/* </center> */}
             {/* //end addition */}
-            </p>
+            {/* </p> */}
             <a href="/"><button className="entrySubmit">Okay</button></a>
         
         </div>
