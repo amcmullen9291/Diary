@@ -55,7 +55,7 @@ try {
             {/* <input className="entrySubmit" type="submit" name="submit" value="Okay"></input> */}
             <button  className="entrySubmit" type="submit">Okay</button>
         </form>
-        {/* <Name/> */}
+        <p>//entries will not be saved on the sample version</p>
         </div>
         <center><form>
           <button className="myButton" onClick={NoSave}>Past Notes</button></form><Link className="myButton" to="#">B A C K H O M E</Link></center>        </div>

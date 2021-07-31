@@ -52,6 +52,14 @@ return(
         <center><Link to={"/"}>R E T U R N H O M E</Link></center>
         </div>
             <p className="details">{entryDetails}</p>
+            {/* //for sample version */}
+            <p className="details">
+              <div>Well, Hello</div>
+              <p>My name is Jacques cousteau I was born on July 21 1899. My favourite authors are Kipling, O. Henry and Steuart Edward White. My favourite flower is Lady Slipper and Tiger Lily. My favourite sports are Trout fishing, Hiking, shooting, football and boxing. My favourite studies are English, Zoology and Chemistry. I intend to travel and write.</p>
+            <div>Tuesday July 30th 2021, 6:15:42 pm</div>
+            <br/>
+            {/* //end addition */}
+            </p>
             <a href="/"><button className="entrySubmit">Okay</button></a>
         
         </div>

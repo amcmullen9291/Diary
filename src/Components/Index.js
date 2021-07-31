@@ -29,9 +29,10 @@ const Index = () => {
       <ul key={entry.entry_id}>
           <li><a href={`/DearDiary/entry/${entry.entry_id}`}>{entry.title}</a></li>
           <ul>{entry.date}</ul>
-        <td></td>
           </ul>))}
-
+          <ul>
+            <li>Hello!</li>
+          </ul>
     </div>
     )
 }
